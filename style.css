@@ -1,0 +1,13 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Reggae+One&display=swap');
+
+h1 {
+    text-align: center;
+    font-family: 'Reggae One', 'Times New Roman', Times, serif;
+}
+
+body {
+    text-align: justify;
+    text-indent: 50px;
+    margin: 30px;
+}
